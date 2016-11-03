@@ -15,6 +15,7 @@ msgstr ""
 "Willkommen zum Einrichtungsassistenten für deinen neuen "
 "Freifunk-Knoten. Fülle das folgede Formular deinen Vorstellungen "
 "entsprechend aus und sende es ab.  "
+"Bitte entferne das Präfix 'ffaw-' im Knotennamen nicht."
 
 msgid "gluon-config-mode:pubkey"
 msgstr ""
